@@ -1,0 +1,30 @@
+
+.corousel-item{
+	height: 400vh;
+	min-height: 300px;
+	-webkit-background: no-repeat center center scroll;
+	background-size: cover;
+}
+.corousel-caption{
+	bottom: 220px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	margin-top: 25px;
+}
+title{ color: white
+}
+.carouselExampleCaptions
+{
+	color: blue
+}
+
+.icon{
+	font-size: 40px !important;
+	color:rgba(255,255,255,0.5);
+}
+
+.icon:hover{
+	color:white;
+	cursor:pointer;
+	transition-duration: 0.4s
+}
